@@ -19,3 +19,13 @@ puts 'Hello, ' + name + '.'
 if name == 'Chris'
     puts 'What a lovely name!'
 end
+
+# if else statements
+puts "Hello i'm a fortune teller. tell me your name: "
+name = gets.chomp
+if name == 'Chris'
+    puts "I see great things in your future"
+else
+    puts "Your future ahh o well"
+    puts "we have to leave now"
+end
