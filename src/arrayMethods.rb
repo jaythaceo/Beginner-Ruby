@@ -22,3 +22,6 @@ puts favorites.length
 puts favorites.pop
 puts favorites
 puts favorites.length
+people = ['Jason']
+puts people
+puts people.length
