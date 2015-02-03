@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+ #!/usr/bin/ruby
 
 # foods
 foods = ['grapes', 'pizza', 'oranges']
