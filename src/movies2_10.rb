@@ -15,10 +15,12 @@ user_input = gets.chomp
 
 case choice
 when "add"
-	puts "Enter movie title"
+	puts "Enter a movie title: "
 	title = gets.chomp
-	puts "Enter movie rating"
+	puts "Enter movie rating: "
 	rating = gets.chomp
+	puts movies[title] = rating
+	puts "The movie and rating was added"
 
 when "update"
 	puts "Updated"
@@ -33,3 +35,5 @@ else
 	puts "Error!"
 
 end
+
+	

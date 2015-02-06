@@ -1,7 +1,6 @@
 #!/usr/bin/ruby
 
 class Note
-
 	def title
 		@title
 	end
@@ -9,5 +8,4 @@ class Note
 	def body
 		@body	
 	end
-
 end
