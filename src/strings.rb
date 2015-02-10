@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 
 
 strings = ["HTML", "CSS", "JavaScript", "Python", "Ruby"]

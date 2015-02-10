@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 
 # String
 myString = "Hello this is a string"

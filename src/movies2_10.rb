@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 movies = {
  :"Indiana_Jones" => 4,
  :"Romeo_and_Juliet" => 3.5,
