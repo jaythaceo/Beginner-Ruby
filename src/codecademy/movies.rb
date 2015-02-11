@@ -47,7 +47,3 @@ when "delete"
 	end
 end
 
-
-
-
-
