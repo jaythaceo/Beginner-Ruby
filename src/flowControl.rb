@@ -1,3 +1,6 @@
+#!/usr/bin/ruby
+
+
 # Flow control => loops
 
 puts 1 < 2
