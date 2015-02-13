@@ -1,6 +1,6 @@
 #!usr/bin/ruby
 
-
+# Array
 names = ['Jason', 'Chris', 'Trinity']
 
 puts names
