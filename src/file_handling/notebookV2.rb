@@ -6,6 +6,6 @@ class Note
 	end
 
 	def body
-		@body	
+		@body
 	end
 end
