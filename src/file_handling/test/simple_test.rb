@@ -12,7 +12,5 @@ class TestSimpleNumber< Test::Unit::TestCase
 	def test_typecheck
 		assert_raise( RuntimeError) { SimpleNumber.new('a') }
 	end
-
 	
-
 end
